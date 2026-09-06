@@ -1,0 +1,23 @@
+{
+  "repo": "nch-videopad-timeline-editor-premium",
+  "product": "NCH VideoPad Timeline Editor Premium",
+  "kind": "video",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "video",
+  "topics": [
+    "nch-videopad",
+    "timeline-editor",
+    "transition-pack",
+    "audio-ducking",
+    "quick-export",
+    "videopad-setup-failed-fix",
+    "how-to-install-videopad",
+    "videopad-windows",
+    "videopad-desktop-2026",
+    "videopad-desktop-package"
+  ],
+  "site": "toolix.me"
+}
